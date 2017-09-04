@@ -3,6 +3,10 @@
 This repository provide REST microservices for all short answer grading problems.
 The requests and responses will be JSON-encoded as ```text/string``` 
 
+# Architecture
+
+![](/docs/architecture.png)
+
 ## [Spacy word embeddings server](https://spacy.io/docs/usage/word-vectors-similarities)
 A simple [Falcon](https://falconframework.org/) app for exposing a spaCy document similarity model using word vector embeddings as a REST microservice.
 
