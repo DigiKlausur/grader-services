@@ -11,7 +11,7 @@ from spacy.symbols import ENT_TYPE, TAG, DEP
 
 import spacy.util
 
-from .compare import Compare
+from compare import Compare
 
 
 try:

@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="architecture.svg">
   <defs
      id="defs4">
     <marker
@@ -122,7 +122,9 @@
          sodipodi:role="line"
          id="tspan4504"></tspan></text>
     <g
-       id="g6314">
+       id="g6314"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <text
          sodipodi:linespacing="125%"
          id="text4492"
